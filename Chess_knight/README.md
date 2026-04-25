@@ -2,7 +2,13 @@
 
 ## Technicalities
 Language: C
+
 Concepts: Recursion, pointers, memory managment, multi-file architecture
+
+Contains: The folder contains of 3 files. 
+  1. chess_knight.cpp - main file
+  2. functions.h - headers for functions
+  3. functions.cpp - implementation of functions
 
 ## Features
 A procedural C implementation of a classic knight's tour problem.
