@@ -1,7 +1,9 @@
 # Who Wants To Be A Millionaire - console game
 ## Game Preview
-![Start Screen](path/to/your/start_screen_image.png)
-![Audience Lifeline](path/to/your/audience_lifeline_image.png)
+![Ask the Audience Lifeline](img/audience.png)
+![Phone a Friend & Input Validation](img/phone.png)
+![Defeat Screen](img/5050_and_defeat.png)
+![Victory & Statistics](img/final_screen.png)
 
 ## Technicalities
 Concepts: Multi-file architecture, control flow, input validation, struct data management, probability simulation
