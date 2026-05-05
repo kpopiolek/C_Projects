@@ -9,7 +9,7 @@ int main( int argc, char* argv[] )
 {
     if( argc != 3 )
     {
-        printf( "Invalid number of arguments! Correct: int <x0>, int <y0>\n" );
+        printf( "Invalid number of arguments! Correct: <name_file> <x0> <y0>\n" );
         return 2;
     }
     int x0 = atoi( argv[ 1 ] );
