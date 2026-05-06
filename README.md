@@ -1,2 +1,2 @@
-# C_Projects
+# c
 This repository contains my personal C projects. 
