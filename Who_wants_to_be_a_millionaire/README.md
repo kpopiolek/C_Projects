@@ -28,6 +28,7 @@ The code implements robust input validation and buffer clearing mechanisms, ensu
 
 ## Future improvements
 **High Score System:** Adding file I/O operations to save and load the best scores from a local `.txt` file.
+
 **External Database:** Transitioning the question pool from hardcoded C-structs to dynamically loaded JSON or CSV files for easier scalability and content updates.
 
 ## Additional info
